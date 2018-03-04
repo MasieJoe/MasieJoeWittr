@@ -1,3 +1,3 @@
 # MasieJoeWittr
-I made this changes because I am learning how to use Git Hub for the first time.
-that is it folks!
+I made these changes because I am learning how to use Git Hub for the first time.
+That is it folks!
